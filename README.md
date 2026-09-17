@@ -66,7 +66,7 @@
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Max%201109-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nishantrana012)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Max%201638-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nishantrana012)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Max%201767-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nishantrana012/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Max%201830-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nishantrana012/)
 
 </div>
 
