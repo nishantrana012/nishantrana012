@@ -64,9 +64,9 @@
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Max%201109-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nishantrana012)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Max%201638-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nishantrana012)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Max%201830-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nishantrana012/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nishantrana012)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nishantrana012)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nishantrana012/)
 
 </div>
 
@@ -88,6 +88,7 @@
 
 <div align="center">
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=nishantranano.1@gmail.com&tf=cm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantrana012/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nishantrana012)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nishantrana012)
